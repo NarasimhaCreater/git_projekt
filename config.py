@@ -1,0 +1,1 @@
+DOMENA = "narasimha-przyjdzie.pl "
